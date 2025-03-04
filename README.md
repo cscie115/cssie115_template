@@ -33,7 +33,7 @@ Never commit large data files,trained models, personal API Keys/secrets to GitHu
         └── train_model.py
 ```
 
-# AC215 - Milestone2 - Cheesy App
+# CSCIE-115 - Milestone2 - Cheesy App
 
 **Team Members**
 Pavlos Parmigianopapas, Pavlos Ricottapapas and Pavlos Gouda-papas
